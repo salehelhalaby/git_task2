@@ -12,3 +12,6 @@ git tag -d <tag_name>
 
 to delete tag remotely 
 git push origin --delete <tag_name>
+
+
+![Capture3](https://github.com/user-attachments/assets/daa7cc65-4c4e-43e8-941c-3e8740239f02)
